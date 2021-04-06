@@ -15,8 +15,9 @@ Laravel is a web application framework with Admin LTE and Jetstream
 ### Requirements
 
 -  PHP ^7.3|^8.0
--  Node JS
--  Composer
+-  Node JS ^7.8.0 
+-  Composer ^12.16.3
+
 
 ### Install
 - Crear archivo .env en la raíz del proyecto y agregar el nombre de la base de datos. Example DB_DATABASE=laravel
