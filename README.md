@@ -36,7 +36,7 @@ $ php artisan migrate
 $ php artisan serve --port=8000
 ```
 
-### Líneas de comandos para crea proyecto:
+### Líneas de comandos para crear proyecto:
 #### Via Composer
 1. `composer global require laravel/installer` 
 2.  `laravel new cerato --jet`  
