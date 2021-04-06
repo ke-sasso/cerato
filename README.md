@@ -15,8 +15,9 @@ Laravel is a web application framework with Admin LTE and Jetstream
 ### Requirements
 
 -  PHP ^7.3|^8.0
--  Node JS ^7.8.0 
--  Composer ^12.16.3
+-  NPM ^7.8.0 
+-  Node JS  ^12.16.3
+-  Composer
 
 
 ### Install
